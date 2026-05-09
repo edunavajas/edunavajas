@@ -17,7 +17,7 @@
 ## 💻Sobre mi
 - 🔭 Actualmente trabajando en <a href="https://www.sngular.com">Sngular</a>
 - 🌱 Estoy aprendiendo... **de todo**
-- 📫 Si quieres contactar conmigo **eduardo.navajascortes@gmail.com** 
+- 📫 Si quieres contactar conmigo **devknives@gmail.com** 
 
 ## &#x1f4c8; GitHub Stats
 
